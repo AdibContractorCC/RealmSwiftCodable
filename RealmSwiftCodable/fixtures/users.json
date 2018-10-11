@@ -1,0 +1,41 @@
+{
+    "id": "e52f2d84-cc00-11e8-9dec-784f435e4a9a",
+    "userName": "AdibContractor",
+    "playlists": [
+        {
+            "id": "1f23bd3e-cc01-11e8-b25e-784f435e4a9a",
+            "name": "disney nostalgia",
+            "desc": "right in the feels",
+            "duration": 361,
+            "tracks": [
+                {
+                    "id": "3e986a2a-cc01-11e8-bb04-784f435e4a9a",
+                    "name": "I'll Make a Man Out of You",
+                    "artist": "Donny Osmond & Chorus"
+                },
+                {
+                    "id": "aff8bcee-cc04-11e8-8c18-784f435e4a9a",
+                    "name": "A Whole New World",
+                    "artist": "Lea Salonga, Brad Kane"
+                }
+            ]
+        },
+        {
+            "id": "2e1f0e02-cc05-11e8-9efe-784f435e4a9a",
+            "name": "songs from aladdin",
+            "duration": 331,
+            "tracks": [
+                {
+                    "id": "aff8bcee-cc04-11e8-8c18-784f435e4a9a",
+                    "name": "A Whole New World",
+                    "artist": "Lea Salonga, Brad Kane"
+                },
+                {
+                    "id": "8a68bd2a-cc05-11e8-91af-784f435e4a9a",
+                    "name": "Prince Ali",
+                    "artist": "Robin Williams"
+                }
+            ]
+        }
+    ]
+}
